@@ -1,6 +1,6 @@
-package modul_1.Praktikum;
+package modul_2.Praktikum;
 
-import modul_1.Praktikum.protec.modifiersubclass;
+import modul_2.Praktikum.protec.modifiersubclass;
 
 public class mainsub extends modifiersubclass {
     public static void main(String[] args) {

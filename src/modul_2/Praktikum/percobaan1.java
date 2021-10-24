@@ -1,4 +1,4 @@
-package modul_1.Praktikum;
+package modul_2.Praktikum;
 
 public class percobaan1 {
         public static void main(String[] args) {

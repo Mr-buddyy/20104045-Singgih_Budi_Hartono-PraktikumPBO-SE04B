@@ -1,4 +1,4 @@
-package modul_1.Praktikum;
+package modul_2.Praktikum;
 
 public class modifier {
     int angkaNON = 1;

@@ -1,6 +1,6 @@
-package modul_1.Praktikum;
+package modul_2.Praktikum;
 
-import modul_1.Praktikum.protec.modifierprotec;
+import modul_2.Praktikum.protec.modifierprotec;
 
 public class main {
     public static void main(String[] args) {

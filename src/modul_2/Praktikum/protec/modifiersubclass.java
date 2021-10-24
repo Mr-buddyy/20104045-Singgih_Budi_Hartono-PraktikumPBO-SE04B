@@ -1,4 +1,4 @@
-package modul_1.Praktikum.protec;
+package modul_2.Praktikum.protec;
 
 public class modifiersubclass {
     String teks = "saya";
