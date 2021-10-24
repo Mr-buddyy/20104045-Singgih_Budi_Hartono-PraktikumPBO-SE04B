@@ -1,0 +1,19 @@
+Modifier
+
+Class (Class yang sama)  :
+- Public
+- Private
+- Protect
+- Non
+
+Package (Beda Class dalam 1 package) :
+- Public
+- None
+- Protect
+
+World (Package yang berbeda) :
+- Public
+
+Subclass (anak dari suatu class / anaknya dari class) :
+- Public
+- Protected
