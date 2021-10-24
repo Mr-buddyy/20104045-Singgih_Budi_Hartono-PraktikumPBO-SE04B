@@ -20,6 +20,85 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="RunManager" selected="Application.percobaan1">
+    <configuration name="Tugas1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_1.Tugas.Tugas1" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_1.Tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tugas2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.Tugas.Tugas2" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul2.Tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tugas2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_1.Tugas.Tugas2" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_1.Tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tugas3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_1.Tugas.Tugas3" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_1.Tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="percobaan1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_1.Praktikum.percobaan1" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_1.Praktikum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.percobaan1" />
+        <item itemvalue="Application.Tugas3" />
+        <item itemvalue="Application.Tugas2" />
+        <item itemvalue="Application.Tugas2 (1)" />
+        <item itemvalue="Application.Tugas1" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> Stashed changes
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +107,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634787698916</updated>
+<<<<<<< Updated upstream
       <workItem from="1634787722133" duration="837000" />
+=======
+      <workItem from="1634787722133" duration="2344000" />
+      <workItem from="1635000952622" duration="3754000" />
+      <workItem from="1635045787045" duration="2977000" />
+      <workItem from="1635055269965" duration="591000" />
+      <workItem from="1635056852276" duration="1696000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
