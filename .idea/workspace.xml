@@ -34,7 +34,7 @@
       <recent name="modul_3.tugas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainTabungan">
+  <component name="RunManager" selected="Application.studentrecordex">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modul_4.praktikum.enkaps.MainClass" />
       <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maintabungan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modul_3.praktikum.bank.maintabungan" />
+    <configuration name="studentrecordex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_4.tugas.studentrecordex" />
       <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modul_3.praktikum.bank.*" />
+          <option name="PATTERN" value="modul_4.tugas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.studentrecordex" />
         <item itemvalue="Application.MainTabungan" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Kotlin.CobaKt" />
         <item itemvalue="Application.tugas" />
-        <item itemvalue="Application.maintabungan" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +121,8 @@
       <workItem from="1635825274300" duration="4147000" />
       <workItem from="1636029981726" duration="1947000" />
       <workItem from="1636126381902" duration="1189000" />
-      <workItem from="1636292050179" duration="220000" />
+      <workItem from="1636292050179" duration="2922000" />
+      <workItem from="1636318917632" duration="109000" />
     </task>
     <servers />
   </component>
