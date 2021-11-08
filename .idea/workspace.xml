@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ced40e80-d167-4f66-bb38-5558d765944c" name="Changes" comment="" />
+    <list default="true" id="66e5d15f-b827-4384-8a92-f0dd0e6d4f8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1zndH0sKIRNREvWVOx6U9kaIVDF" />
+  <component name="ProjectId" id="20EICdIqbdrtZSYKbTK5KsQPkYo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,16 +27,102 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Belajar/Ngoprek/android" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="modul_3.tugas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.studentrecordex">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_4.praktikum.enkaps.MainClass" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_4.praktikum.enkaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTabungan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_4.praktikum.overloading.MainTabungan" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_4.praktikum.overloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="studentrecordex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_4.tugas.studentrecordex" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_4.tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tugas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_3.tugas.tugas" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_3.tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CobaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_3.praktikum.CobaKt" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.studentrecordex" />
+        <item itemvalue="Application.MainTabungan" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Kotlin.CobaKt" />
+        <item itemvalue="Application.tugas" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ced40e80-d167-4f66-bb38-5558d765944c" name="Changes" comment="" />
-      <created>1634787698916</created>
+      <changelist id="66e5d15f-b827-4384-8a92-f0dd0e6d4f8c" name="Changes" comment="" />
+      <created>1635603252128</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634787698916</updated>
-      <workItem from="1634787722133" duration="837000" />
+      <updated>1635603252128</updated>
+      <workItem from="1635603252131" duration="2501000" />
+      <workItem from="1635646839912" duration="385000" />
+      <workItem from="1635683206018" duration="4355000" />
+      <workItem from="1635749736602" duration="223000" />
+      <workItem from="1635750004962" duration="619000" />
+      <workItem from="1635824310396" duration="597000" />
+      <workItem from="1635825274300" duration="4147000" />
+      <workItem from="1636029981726" duration="1947000" />
+      <workItem from="1636126381902" duration="1189000" />
+      <workItem from="1636292050179" duration="2922000" />
+      <workItem from="1636318917632" duration="109000" />
     </task>
     <servers />
   </component>
