@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TesLatihan">
     <configuration name="MainSekolah" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modul_5.Praktikum.Sekolah.MainSekolah" />
       <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
@@ -41,8 +41,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_5.Tugas.TesLatihan" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_5.Tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesLatihan" />
         <item itemvalue="Application.MainSekolah" />
       </list>
     </recent_temporary>
@@ -56,11 +70,23 @@
       <option name="presentableId" value="Default" />
       <updated>1636616491619</updated>
       <workItem from="1636616502815" duration="1873000" />
-      <workItem from="1636684310410" duration="342000" />
+      <workItem from="1636684310410" duration="4162000" />
+      <workItem from="1636748814670" duration="1574000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/modul_5/Tugas/TestLatihan.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
