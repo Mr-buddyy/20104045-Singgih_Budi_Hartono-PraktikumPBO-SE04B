@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ced40e80-d167-4f66-bb38-5558d765944c" name="Changes" comment="" />
+    <list default="true" id="ec9770fa-6e39-4b17-b42b-0c32c170860c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1zndH0sKIRNREvWVOx6U9kaIVDF" />
+  <component name="ProjectId" id="20lPxAyJ2GFPSK9bgUNTWF7H2Fa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,19 +27,66 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RunManager" selected="Application.TesLatihan">
+    <configuration name="MainSekolah" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_5.Praktikum.Sekolah.MainSekolah" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_5.Praktikum.Sekolah.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_5.Tugas.TesLatihan" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_5.Tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesLatihan" />
+        <item itemvalue="Application.MainSekolah" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ced40e80-d167-4f66-bb38-5558d765944c" name="Changes" comment="" />
-      <created>1634787698916</created>
+      <changelist id="ec9770fa-6e39-4b17-b42b-0c32c170860c" name="Changes" comment="" />
+      <created>1636616491619</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634787698916</updated>
-      <workItem from="1634787722133" duration="837000" />
+      <updated>1636616491619</updated>
+      <workItem from="1636616502815" duration="1873000" />
+      <workItem from="1636684310410" duration="4162000" />
+      <workItem from="1636748814670" duration="1574000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/modul_5/Tugas/TestLatihan.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
