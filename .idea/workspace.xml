@@ -27,7 +27,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.InheritanceTest">
+    <configuration name="InheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_6.tugas.percobaan3.InheritanceTest" />
+      <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul_6.tugas.percobaan3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersegiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modul_6.praktikum.percobaan1.PersegiTest" />
       <module name="20104045-Singgih_Budi_Hartono-PraktikumPBO-SE04B" />
@@ -43,6 +56,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceTest" />
         <item itemvalue="Application.PersegiTest" />
       </list>
     </recent_temporary>
@@ -56,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1634787698916</updated>
       <workItem from="1634787722133" duration="837000" />
-      <workItem from="1637157187406" duration="816000" />
+      <workItem from="1637157187406" duration="1411000" />
+      <workItem from="1637419338044" duration="1090000" />
     </task>
     <servers />
   </component>
