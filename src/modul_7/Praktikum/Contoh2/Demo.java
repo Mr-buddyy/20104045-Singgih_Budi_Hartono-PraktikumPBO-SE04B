@@ -1,4 +1,4 @@
-package modul_5.Praktikum.Contoh2;
+package modul_7.Praktikum.Contoh2;
 
 public class Demo {
     public static void main(String[] args) {

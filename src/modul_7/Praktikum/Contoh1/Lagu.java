@@ -1,4 +1,4 @@
-package modul_5.Praktikum.Contoh1;
+package modul_7.Praktikum.Contoh1;
 
 public class Lagu {
     String pencipta;

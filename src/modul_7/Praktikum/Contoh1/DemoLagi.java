@@ -1,4 +1,4 @@
-package modul_5.Praktikum.Contoh1;
+package modul_7.Praktikum.Contoh1;
 
 public class DemoLagi {
     public static void main(String[] args) {
